@@ -24,5 +24,4 @@ Experienced Website project manager/Internet business consulting<br>
 Strong Communication Skills: Know how to talk to clients in a way that they understand, with or without IT backgrounds.<br>
 
 Still new in Data Science/Machine Learning, but extremely curious to learn and explore more.<br>
-I am especially interested in the **Data Modelling and Predication**. <br>
-Please give me a chance to learn/work more in this area. I will be the outstanding one and make my contributions in the future. <br>
+I am especially interested in the **Data Modelling and Predication**. <br>I am looking for a job of Data Scientist, to learn/work more in this area. I will be the outstanding one and make my contributions in the future. <br>
