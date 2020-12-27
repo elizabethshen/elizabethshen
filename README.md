@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="pics/happynewyear_Derley.png" width="1200" height="300"/><br>
 
-Master of Computer Science. Received ***IBM Professional Data Science Certificate***<br>
+Master of Computer Science. Received ***IBM Professional Data Science Certificate*** in 2020.<br>
 
 https://www.linkedin.com/pulse/brussels-best-neighborhoods-expats-elizabeth-shen/?trackingId=n54YI5mVRt6eB1wniArQ6A%3D%3D <br>
 
