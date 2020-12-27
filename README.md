@@ -31,4 +31,4 @@ Still new in Data Science/Machine Learning, but extremely curious to learn and e
 
 I am especially interested in the **Data Modelling and Predication**. <br>
 
-Please give me a chance to learn/work more in this area. I will be the outstanding one and make my contributions in the future. <br
+Please give me a chance to learn/work more in this area. I will be the outstanding one and make my contributions in the future. <br>
