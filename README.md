@@ -28,3 +28,4 @@ I am especially interested in the **Data Modelling and Prediction**. <br>I am lo
 
 Please feel free to reach me: elizabeshen@gmail.com <br>
 Best wishes! 
+<img src="pics/chocolate.png" width="1000" height="200"/><br>
