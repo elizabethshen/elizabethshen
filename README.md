@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="pics/happynewyear_2022.png" width="1000" height="200"/><br>
+<img src="pics/happynewyear_2022.jpg" width="1000" height="200"/><br>
 
 Master of Computer Science. Received ***IBM Professional Data Science Certificate*** in 2020.<br>
 
