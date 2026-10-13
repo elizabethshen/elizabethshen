@@ -26,6 +26,7 @@ Strong Communication Skills: Know how to talk to clients in a way that they unde
 Still new in Data Science/Machine Learning, but extremely curious to learn and explore more.<br>
 I am especially interested in the **Data Modelling and Prediction**. <br>I am looking for a Data Scientist job, to learn and work more in this area. I will be the outstanding one and make my contributions in the future. <br>
 
+I am going to create a project called **Uppie Baby Tutorial**, to make data science an easy learning process for every one.<br> 
 Please feel free to reach me: elizabeshen@gmail.com <br>
 Best wishes! 
 
