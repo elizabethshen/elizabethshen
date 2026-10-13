@@ -28,7 +28,7 @@ I am especially interested in the **Data Modelling and Prediction**. <br>I am lo
 
 I am going to create a project called **Uppie Baby Tutorial**, to make data science an easy learning process for every one.<br> 
 and this is Uppie, a 4 years lab <br>
-<img src="pics/Uppie.jpg" width="" height=""/><br>
+<img src="pics/Uppie.jpg"/><br>
 Please feel free to reach me: elizabeshen@gmail.com <br>
 <br>
 Best wishes! 
