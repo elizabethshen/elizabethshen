@@ -23,11 +23,14 @@ https://www.linkedin.com/pulse/brussels-best-neighborhoods-expats-elizabeth-shen
 Experienced Website project manager/Internet business consulting<br>
 Strong Communication Skills: Know how to talk to clients in a way that they understand, with or without IT backgrounds.<br>
 
-Still new in Data Science/Machine Learning, but extremely curious to learn and explore more.<br>
-I am especially interested in the **Data Modelling and Prediction**. <br>I am looking for a Data Scientist job, to learn and work more in this area. I will be the outstanding one and make my contributions in the future. <br>
+Passionate about Data Science/Machine Learning, extremely curious to learn and explore more.<br>
+I am especially interested in the **Data Modelling and Prediction**. <br>
+<br>
+I am looking for a Data Scientist job, to learn and work more in this area. <br> Combining my experiences with business, strong interest in numbers and Patterns and world traveling experiences and an understanding of different cultures, I believe I can make an unique contribution and a long term, an outstanding player. 
+<br>
 
 I am going to create a project called **Uppie Baby Tutorial**, to make data science an easy learning process for every one.<br> <br>
-This is Uppie <br><br>
+This is Uppie, a real lab ( with an AI Epee)! <br><br> 
 <img src="pics/Uppie.jpeg"  width="250" height="350" /><br><br>
 Please feel free to reach me: elizabeshen@gmail.com <br>
 <br>
